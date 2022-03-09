@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning python
 - 📫 you can find me on the following social media platforms or send me an email:
 - [Linkedin](www.linkedin.com/in/amirhossein-saffari-69936722b)
-- Instagram
 - [Codewars](https://www.codewars.com/users/Amirhs)
 - ahossein1382saffari@gmail.com
 <!---
